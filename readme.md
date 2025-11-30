@@ -26,7 +26,7 @@ A modern, full-stack QR code-based intern attendance logging system built with R
 - Node.js 16 or higher
 - npm or yarn package manager
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### Frontend Setup
 
@@ -38,13 +38,13 @@ npm start
 
 The frontend will start on http://localhost:3000
 
-## 🔧 Configuration
+## Configuration
 
 ### Frontend Configuration
 
 The frontend is configured to proxy API requests to http://localhost:8080 (see package.json).
 
-## 📱 Usage
+## Usage
 
 ### Admin Panel Features
 
@@ -72,12 +72,12 @@ npm run build
 # Deploy the 'build' folder to your web server
 `
 
-## 🔧 Development
+## Development
 
 ### Running in Development Mode
 
 1. Run frontend: 
-pm start
+npm start
 2. Access application at http://localhost:3000
 
 ### Project Structure
